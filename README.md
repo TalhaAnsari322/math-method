@@ -1,1 +1,1 @@
-https://github.com/TalhaAnsari322/math-method.git
+ https://talhaansari322.github.io/math-method/
